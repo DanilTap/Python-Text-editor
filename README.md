@@ -1,9 +1,8 @@
-### Python-Text-editor
-This is a simple text editor on Python and Tkinter.
-
+# Python-Text-editor
+This is a simple text editor on Python and Tkinter.\n
 The project is planned to be developed to the state of a full-fledged code editor.
 
-# Version 1.0.0
+## Version 1.0.0
 The editor allows you to open, create and edit files.
 
 The editor settings are in JSON. On a new start, the editor opens the last opened files and loads the settings.
