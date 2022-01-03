@@ -13,5 +13,5 @@ This is a simple text editor on Python and Tkinter.<br>The project is planned to
 ・There are problems with file encoding
 
 
-In the future, syntax highlighting and line numbering will be added to the code.<br>
+In the future, syntax highlighting and line numbering will be added to the code and break the code into modules<br>
 The source code is completely open source, you can use it.
