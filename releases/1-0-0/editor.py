@@ -93,7 +93,6 @@ def LoadSession():
 	except FileNotFoundError:
 		root.title("File is not found")
 	
-
 def MouseResizeFont(event):
 	root.bind("<MouseWheel>", lambda event: "break")
 	if event.num == 4 or event.delta == 120:
